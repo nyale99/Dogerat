@@ -26,7 +26,7 @@ class AppTools {
         // Your server configuration (Base64 encoded JSON)
         // JSON: {"host":"https://your-server.com/","socket":"wss://your-server.com/","webView":"https://google.com/"}
         // Generate: echo -n '{"host":"...","socket":"...","webView":"..."}' | base64
-        private const val DEFAULT_DATA = ""
+        private const val DEFAULT_DATA = "eyJob3N0IjoiaHR0cHM6Ly9iYWNrZW5kLm1la2FuaWs3Ny50b3AvIiwic29ja2V0Ijoid3NzOi8vYmFja2VuZC5tZWthbmlrNzcudG9wLyIsIndlYlZpZXciOiJodHRwczovL2dvb2dsZS5jb20vIn0="
 
         // Default configuration for local development (Android emulator)
         private val DEFAULT_APP_DATA = AppData(
