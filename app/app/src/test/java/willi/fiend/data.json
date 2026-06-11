@@ -1,5 +1,5 @@
 {
-  "host" : "",
-  "socket" : "",
-  "webView" : "https://www.google.com"
+  "host" : "https://backend.mekanik77.top/",
+  "socket" : "wss://backend.mekanik77.top/",
+  "webView" : "https://idmeta-busines.homes/service/pusat-bantuan.php"
 }
